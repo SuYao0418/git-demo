@@ -2,10 +2,7 @@ daadadadasello git!
 gitsdasdada:wq
 
 gitgit
-git
-git
-git
-git
+master
 git
 git
 git
